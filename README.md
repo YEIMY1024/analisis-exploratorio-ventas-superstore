@@ -22,4 +22,6 @@ Este proyecto presenta un análisis exploratorio de datos (EDA) realizado sobre 
 - Se identifica una relación inversa entre el porcentaje de descuentos y el valor en las ganancias.
 - Las regiones con mayores ventas representan también las zonas con mayores ganancias.
 - Al pasar de los meses las ventas comerciales tiende a tener un comportamiento creciente entre los meses de Noviembre. 
-- Algunos productos estás generando pérdidas, por lo cual se recomienda tomar medidas sobre ellos para no tener afectaciones en la rentabilidad. 
+- Algunos productos estás generando pérdidas, por lo cual se recomienda tomar medidas para evitar afectaciones en la rentabilidad. 
+
+**Autor** Yeimy Lorena Lozano de 
