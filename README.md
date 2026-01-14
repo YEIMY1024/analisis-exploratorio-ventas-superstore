@@ -24,4 +24,7 @@ Este proyecto presenta un análisis exploratorio de datos (EDA) realizado sobre 
 - Al pasar de los meses las ventas comerciales tiende a tener un comportamiento creciente entre los meses de Noviembre. 
 - Algunos productos estás generando pérdidas, por lo cual se recomienda tomar medidas para evitar afectaciones en la rentabilidad. 
 
-**Autor** Yeimy Lorena Lozano de 
+**Autor** Yeimy Lorena Lozano Clavijo 
+**Graduada en Matemáticas | Analista de Datos Junior**
+
+Interés en análisis de datos, visualización y toma de decisiones basada en datos.
